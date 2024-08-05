@@ -1,1 +1,3 @@
 # GUI-Client-Server-Communication-with-Python
+
+This project involves developing a graphical user interface (GUI) for a client-server communication system using Python. The client application, built with Tkinter, provides a user-friendly interface for sending and receiving messages. The server, running in the command prompt or terminal, handles incoming connections and messages from multiple clients. The project demonstrates how to integrate a GUI client with a command-line server to enable real-time communication and message exchange, showcasing the practical application of socket programming and GUI development in Python.
